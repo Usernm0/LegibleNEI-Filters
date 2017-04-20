@@ -1,0 +1,18 @@
+{
+	BuildCraft|Builders:[
+		{hide:[[frameBlock],[]]};
+	],
+	BuildCraft|Core:[
+		{hide:[[buildToolBlock],[]]};
+		{hide:[[list],[0]]};
+	],
+	BuildCraft|Factory:[
+		{hide:[[plainPipeBlock],[]]};
+	],
+	BuildCraft|Silicon:[
+		{hide:[[package],[]]};
+	],
+	BuildCraft|Transport:[
+		{hide:[[pipeBlock],[]]};
+	]
+} 

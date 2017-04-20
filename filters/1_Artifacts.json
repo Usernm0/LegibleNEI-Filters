@@ -1,0 +1,11 @@
+{
+	Artifacts:[
+	{hide:[[anti_builder,illusionary_block,invisible_bedrock,invisible_block,invisible_pressure_plate,obsidian_invisible_pressure_plate,laser_beam,light_block,floating_block,anti_anti_builder_stone,fake_tile_entity,fake_block_item,arrow_trap_item,cover_plate_item,structure_generator],[]]};
+	{hide:[[trapblade_wood,trapblade_stone,trapblade_iron,trapblade_gold,trapblade_diamond],[]]};
+	{keep:[[artifact,artifact_leather_helmet,artifact_leather_chestplate, artifact_leather_leggings, artifact_leather_boots],[0],['']]};
+	{hide:[[artifact_chainmail_helmet,artifact_chainmail_chestplate, artifact_chainmail_leggings, artifact_chainmail_boots],[]]};
+	{hide:[[artifact_iron_helmet,artifact_iron_chestplate, artifact_iron_leggings, artifact_iron_boots],[]]};
+	{hide:[[artifact_golden_helmet,artifact_golden_chestplate, artifact_golden_leggings, artifact_golden_boots],[]]};
+	{hide:[[artifact_diamond_helmet,artifact_diamond_chestplate, artifact_diamond_leggings, artifact_diamond_boots],[]]};
+	]
+}

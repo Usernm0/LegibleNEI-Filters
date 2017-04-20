@@ -1,0 +1,14 @@
+ {GalacticraftCore:[
+    {hide:[[tile.dish],[]]};
+    {keep:[[item.parachute],[0]]};
+    {keep:[[item.spaceship],[0]]};
+    ],
+GalacticraftMars:[
+    {keep:[[item.itemTier3Rocket],[0]]};
+    {keep:[[item.spaceshipTier2],[0,13]]};
+    ],
+ExtraPlanets:[
+    {keep:[[itemTier*],[0]]};
+    ]
+} 
+
