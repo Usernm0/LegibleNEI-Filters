@@ -1,0 +1,8 @@
+{RedLogic:[
+	{keep:[[redlogic.wire],[0,1, 16384, 16385]]};
+	{keep:[[redlogic.lampCubeOff, redlogic.lampCubeDecorative, redlogic.lampCubeIndicatorOff,
+		redlogic.button],[0,1]]};
+	{hide:[[redlogic.lampCubeOn, redlogic.lampCubeIndicatorOn],[]]};
+	{keep:[[redlogic.lampNonCube],[64, 65]]};
+	]
+}

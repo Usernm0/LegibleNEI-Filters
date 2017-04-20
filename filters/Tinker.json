@@ -1,0 +1,21 @@
+{TConstruct:[
+	{keep:[[*Plate,*inding,*Head,*Blade,*Part,*Rod,*Guard,crossbar,*head,
+		*Stained*,decoration.*,*slab1,ToolForgeBlock,GravelOre,MetalBlock,SearedBrick,SpeedBlock],[0]]};
+	{keep-one:[[creativeModifier],[]]};
+	{keep:[[SearedSlab, SpeedSlab],[0]]};
+    {keep:[[Smeltery],[0-5]]};
+	{keep:[[SmelteryNether],[0-2]]};
+	{keep:[[ToolStationBlock],[0,1,5,10]]};
+	{hide:[fluid.molten.,[lead,signalum],[]]};
+	{hide:[[HeldItemBlock,BattleSignBlock,buckets,woodPattern,Pattern,Boneana],[]]};
+	{hide:[[trap.barricade.spruce, trap.barricade.birch , trap.barricade.jungle],[]]};
+	{hide:[[pickaxe, shovel, hatchet, broadsword, longsword, rapier, dagger, 
+		cutlass, frypan, battlesign, mattock, Chisel, lumberaxe, cleaver, 
+		Scythe, excavator, hammer, battleaxe, shuriken, throwingknife, javelin, 
+		shortbow, longbow, crossbow, arrowammo, boltammo, fletching],[]]};
+	],
+	ExtraTiC:[
+	{hide:[[moltenVoidmetal,extra.bucket,largeplate,*bind*,*Head,*Blade,*rod,*Guard,crossbar,
+		*head,shuriken,*Limb,*Body,*Sign,Blot],[]]};
+	]
+}
