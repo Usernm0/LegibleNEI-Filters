@@ -1,4 +1,5 @@
-{staircraftmod:[
-	{hide:[[*stair],[]]};
+{
+	staircraftmod:[
+		{hide:[[*stair],[]]};
 	]
 }

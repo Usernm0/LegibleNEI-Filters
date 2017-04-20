@@ -1,8 +1,9 @@
-{TConstruct:[
-	{hide:[[trap.barricade.spruce, trap.barricade.birch , trap.barricade.jungle],[]]};
-	{hide:[[pickaxe, shovel, hatchet, broadsword, longsword, rapier, dagger, 
-		cutlass, frypan, battlesign, mattock, Chisel, lumberaxe, cleaver, 
-		Scythe, excavator, hammer, battleaxe, shuriken, throwingknife, javelin, 
-		shortbow, longbow, crossbow, arrowammo, boltammo, fletching],[]]};
+{
+	TConstruct:[
+		{hide:[[trap.barricade.spruce, trap.barricade.birch , trap.barricade.jungle],[]]};
+		{hide:[[pickaxe, shovel, hatchet, broadsword, longsword, rapier, dagger, 
+			cutlass, frypan, battlesign, mattock, Chisel, lumberaxe, cleaver, 
+			Scythe, excavator, hammer, battleaxe, shuriken, throwingknife, javelin, 
+			shortbow, longbow, crossbow, arrowammo, boltammo, fletching],[]]};
 	]
 }

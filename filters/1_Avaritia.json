@@ -1,4 +1,5 @@
- {Avaritia:[
-    {hide:[[Matter_Cluster],[]]};
-    ]
+{
+	Avaritia:[
+		{hide:[[Matter_Cluster],[]]};
+	]
 } 

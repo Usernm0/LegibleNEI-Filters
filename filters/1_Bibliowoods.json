@@ -1,4 +1,5 @@
- {BiblioWoodsNatura:[
-    {hide:[[BiblioWood*, seatBack*],[]]};
-    ]
-} 
+{
+	BiblioWoodsNatura:[
+		{hide:[[BiblioWood*, seatBack*],[]]};
+	]
+}

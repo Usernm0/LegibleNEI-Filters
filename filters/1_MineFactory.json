@@ -1,5 +1,6 @@
-{MineFactoryReloaded:[
-	{keep:[[conveyor],[16,0]]};
-	{keep:[[stainedglass.*, ceramicdye],[0]]};
+{
+	MineFactoryReloaded:[
+		{keep:[[conveyor],[16,0]]};
+		{keep:[[stainedglass.*, ceramicdye],[0]]};
 	]
 }

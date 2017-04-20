@@ -1,4 +1,5 @@
-{ComputerCraft:[
-	{keep-one:[[diskExpanded],[0]]};
+{
+	ComputerCraft:[
+		{keep-one:[[diskExpanded],[0]]};
 	]
 }

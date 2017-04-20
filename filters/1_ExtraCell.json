@@ -1,1 +1,5 @@
-{extracells:[ {keep-one:[[pattern.fluid],[]]};]}
+{
+	extracells:[
+		{keep-one:[[pattern.fluid],[]]};
+	]
+}

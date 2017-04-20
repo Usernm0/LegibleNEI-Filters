@@ -1,4 +1,5 @@
-{ImmersiveEngineering:[
-	{keep:[[storageSlab],[7]]};
+{
+	ImmersiveEngineering:[
+		{keep:[[storageSlab],[7]]};
 	]
 }

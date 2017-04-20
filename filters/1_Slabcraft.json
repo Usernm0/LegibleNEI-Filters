@@ -1,4 +1,5 @@
-{slabcraftmod:[
-	{hide:[[*slab*, *salb],[]]};
+{
+	slabcraftmod:[
+		{hide:[[*slab*, *salb],[]]};
 	]
 }

@@ -1,6 +1,6 @@
 {
 	AgriCraft:[
-	{keep:[[waterTank,waterChannel,waterChannelFull,channelValve,seedStorage,fence,fenceGate,grate],[0],[*minecraft*]]};
-	{keep:[[waterTank,waterChannel,waterChannelFull,channelValve,seedStorage,fence,fenceGate,grate],[0],['*0,*']]};
+		{keep:[[waterTank,waterChannel,waterChannelFull,channelValve,seedStorage,fence,fenceGate,grate],[0],[*minecraft*]]};
+		{keep:[[waterTank,waterChannel,waterChannelFull,channelValve,seedStorage,fence,fenceGate,grate],[0],['*0,*']]};
 	]
 }
