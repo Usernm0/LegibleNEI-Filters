@@ -5,5 +5,8 @@
 			cutlass, frypan, battlesign, mattock, Chisel, lumberaxe, cleaver, 
 			Scythe, excavator, hammer, battleaxe, shuriken, throwingknife, javelin, 
 			shortbow, longbow, crossbow, arrowammo, boltammo, fletching],[]]};
+	],
+	IguanaTweaksTConstruct:[
+		{hide:[[clayBucketWater,clayBucketLava,clayBucketMilk,clayBucketsTinkers],[]]};
 	]
 }
