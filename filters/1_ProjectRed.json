@@ -1,0 +1,22 @@
+{
+	ProjRed|Core:[
+		{hide:[[projectred.core.part],[20-34]]};
+		{hide:[[projectred.core.datacard],[]]};
+	],
+	ProjRed|Exploration:[
+		{keep:[[projectred.exploration.backpack],[0]]};
+	],
+	ProjRed|Illumination:[
+		{keep:[[projectred.illumination.lamp],[0, 16]]};
+		{keep:[[projectred.illumination.lantern,projectred.illumination.lantern.inv,projectred.illumination.fixture,projectred.illumination.fixture.inv,
+			projectred.illumination.cagelamp,projectred.illumination.cagelamp.inv,projectred.illumination.cagelamp2,projectred.illumination.cagelamp2.inv,
+			projectred.illumination.lightbutton,projectred.illumination.flightbutton],[0]]};
+	],
+	ProjRed|Integration:[
+		{hide:[[projectred.integration.gate],[34]]};
+	],
+	ProjRed|Transmission:[
+		{keep:[[projectred.transmission.wire],[0, 1, 17, 18, 34]]};
+		{keep:[[projectred.transmission.framewire],[0, 1]]};
+	]
+}

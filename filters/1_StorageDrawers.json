@@ -1,4 +1,7 @@
 {
+	StorageDrawers:[
+		{keep:[[fullDrawers*, halfDrawers*, trim],[0]]};
+	],
 	StorageDrawersNatura:[
 		{hide:[[fullDrawers*, halfDrawers*, trim],[]]};
 	]
