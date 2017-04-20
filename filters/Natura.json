@@ -1,0 +1,9 @@
+{Natura:[
+	{hide:[[Natura.*, stair.*, pressureplate.*,
+	trapdoor.*, button.*, fencegate.*],[]]};
+	{hide:[[plankslab*],[]]};
+	],
+	StorageDrawersNatura:[
+	{hide:[[fullDrawers*, halfDrawers*, trim],[]]};
+	]
+}
